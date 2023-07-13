@@ -3,3 +3,4 @@ venv/*
 venv/
 weed_images/
 content/
+.env
